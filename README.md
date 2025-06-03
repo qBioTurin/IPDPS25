@@ -1,8 +1,10 @@
 <p align="center">
   <img src="./logos/unito.png" alt="University of Turin" height="80"/>
   <img src="./logos/tudarmstadt.png" alt="TU Darmstadt" height="80"/>
-  <img src="./logos/ddn.png" alt="DataDirect Networks" height="80"/>
   <img src="./logos/uc3m.png" alt="UC3M" height="80"/>
+</p>
+<p align="center">
+  <img src="./logos/ddn.png" alt="DataDirect Networks" height="80"/>
   <img src="./logos/paratools.png" alt="ParaTools" height="80"/>
 </p>
 
